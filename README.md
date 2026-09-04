@@ -1,0 +1,1 @@
+# SFTs-to-Local-Forbidden-Constraints-Enumeration
